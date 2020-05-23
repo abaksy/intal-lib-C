@@ -2,6 +2,12 @@
 A C library consisting of basic functions for integers of arbitrary length
 This library was implemented as a part of Design and Analysis of Algorithms (UE18CS251) course at PES University
 
+To run, use
+```
+$gcc -Wall -std=c99 intal.c tests/intal_sampletest.c 
+#./a.out
+```
+
 1. Introduction
 
 An intal (integer of arbitrary length) is a representation of a number in base 10 system in which each digit is represented as a character. The digits are represented in big endian format, meaning that the digit with the highest place value is at the leftmost position of the string, while the digit with the lowest place value is at the rightmost position. 
