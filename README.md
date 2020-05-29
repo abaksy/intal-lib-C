@@ -1,4 +1,4 @@
-# Integer library
+# Library for Integers of arbitrary length
 A C library consisting of basic functions for integers of arbitrary length
 This library was implemented as a part of Design and Analysis of Algorithms (UE18CS251) course at PES University
 
