@@ -4,7 +4,7 @@ This library was implemented as a part of Design and Analysis of Algorithms (UE1
 
 To run, use
 ```
-$gcc -Wall -std=c99 intal.c tests/intal_sampletest.c 
+$gcc -Wall -std=c99 intal.c tests/intal_sampletest(_/1/2).c 
 $./a.out
 ```
 
